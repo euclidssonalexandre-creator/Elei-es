@@ -1,0 +1,6 @@
+{"musica":true,"cenas":[
+ {"tipo":"frase","dur":3.0,"tag":"Livro Caixa do Produtor Rural","titulo":"Você ainda digita *nota por nota?*"},
+ {"tipo":"lista","dur":5.6,"titulo":"O dep.rural *lê pra você:*","itens":["XML das notas de compra","XML das notas de venda","Holerites em PDF","Guias do INSS e do FGTS","Planilha de honorários"]},
+ {"tipo":"frase","dur":3.6,"tag":"E ainda","titulo":"Sugere a *conta* e o *histórico*","texto":"e aponta o que parece uso pessoal do produtor."},
+ {"tipo":"marca","dur":4.2,"titulo":"O livro caixa volta *pronto* para o programa da Receita.","botao":"Comenta RURAL"}
+]}

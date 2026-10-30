@@ -1,0 +1,25 @@
+/* dep.rural · um produto dep.lab — estilo das artes do Instagram
+   Cores e fontes iguais às da apresentação do dep.rural. */
+@font-face{font-family:"Archivo";font-weight:700;src:url("fontes/archivo-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"Archivo";font-weight:800;src:url("fontes/archivo-latin-800-normal.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-weight:400;src:url("fontes/inter-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-weight:500;src:url("fontes/inter-latin-500-normal.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-weight:600;src:url("fontes/inter-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-weight:700;src:url("fontes/inter-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"JetBrains Mono";font-weight:400;src:url("fontes/jetbrains-mono-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"JetBrains Mono";font-weight:700;src:url("fontes/jetbrains-mono-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:"JetBrains Mono";font-weight:800;src:url("fontes/jetbrains-mono-latin-800-normal.woff2") format("woff2")}
+
+:root{
+  --bg:#131316; --deep:#0d0d10; --surface:#1e1e24; --line:#34333a;
+  --fg:#f2efec; --muted:#a8a29e; --accent:#ff6b2c; --accent-fg:#1e1e24; --accent-soft:#3a2317;
+  --display:"Archivo","Inter",sans-serif; --body:"Inter",sans-serif; --mono:"JetBrains Mono","DejaVu Sans Mono",monospace;
+}
+html,body{margin:0;background:var(--bg)}
+*{box-sizing:border-box}
+.acc{color:var(--accent)}
+.wm{font-family:var(--mono);font-weight:800;letter-spacing:-.04em;color:var(--fg)}
+.wm b{color:var(--accent)}
+.wm i{font-style:normal;font-weight:400}
+.tag{font-family:var(--mono);font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.bar{position:absolute;left:0;top:0;right:0;height:14px;background:linear-gradient(90deg,var(--accent) 0 28%,#3a3940 28%)}

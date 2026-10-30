@@ -1,0 +1,11 @@
+{"slides":[
+ {"tipo":"capa","tag":"Livro Caixa do Produtor Rural","titulo":"Folha do produtor: em que mês *lançar?*","texto":"A dúvida que mais aparece no fechamento do mês."},
+ {"tipo":"texto","tag":"A regra","titulo":"O livro caixa segue o *regime de caixa*","texto":"Vale a data em que o dinheiro saiu do caixa do produtor, e não o mês de competência da folha."},
+ {"tipo":"itens","tag":"Exemplo: folha de outubro","titulo":"Tudo entra *em novembro*","itens":[
+   {"n":"01","t":"Salário de outubro","d":"Pago até o 5º dia útil de novembro. Entra em novembro."},
+   {"n":"02","t":"INSS de outubro","d":"Pago na guia de novembro. Entra em novembro."},
+   {"n":"03","t":"FGTS de outubro","d":"Pago na guia de novembro. Entra em novembro."}]},
+ {"tipo":"texto","tag":"Cuidado","titulo":"O salário entra pelo *líquido*","texto":"O INSS descontado do empregado sai do caixa junto com a guia.","destaque":"Lançar o salário bruto e a guia inteira conta esse desconto duas vezes."},
+ {"tipo":"texto","tag":"dep.rural","titulo":"Joga o PDF da folha e *pronto*","texto":"O dep.rural lê os holerites e as guias e lança cada valor no mês em que foi pago, com o histórico certo."},
+ {"tipo":"cta","tag":"Ficou com dúvida?","titulo":"Manda nos comentários. *A gente responde.*","texto":"E se quiser ver o dep.rural funcionando:","botao":"Comenta RURAL"}
+]}

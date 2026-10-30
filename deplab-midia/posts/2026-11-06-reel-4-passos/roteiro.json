@@ -1,0 +1,10 @@
+{"musica":true,"cenas":[
+ {"tipo":"frase","dur":3.0,"tag":"dep.rural","titulo":"Livro caixa do produtor *sem digitação.*"},
+ {"tipo":"passos","dur":7.2,"titulo":"Em *4 passos:*","passos":[
+   {"t":"Gravar a cópia","d":"no programa da Receita, como você já faz"},
+   {"t":"Arrastar os arquivos","d":"XMLs das notas e PDFs da folha"},
+   {"t":"Conferir","d":"o sistema sugere conta e histórico"},
+   {"t":"Restaurar","d":"o livro volta pronto para o programa"}]},
+ {"tipo":"frase","dur":3.8,"tag":"Testado com dados reais","titulo":"Restaurou no programa da Receita *sem erro.*","texto":"E o que já estava lançado continuou igual."},
+ {"tipo":"marca","dur":3.8,"titulo":"Sem trocar de sistema. *Sem digitação.*","botao":"Comenta RURAL"}
+]}

@@ -1,0 +1,14 @@
+{"slides":[
+ {"tipo":"capa","tag":"Livro Caixa do Produtor Rural","titulo":"Livro caixa digitado à mão?\nEsses *6 erros* aparecem toda hora.","texto":"Arrasta e conta quantos você já viu no escritório."},
+ {"tipo":"itens","tag":"Erros de digitação","titulo":"Tudo passa *pelo teclado*","itens":[
+   {"n":"01","t":"Digitação nota a nota","d":"Data, conta, histórico e valor de cada nota, uma por uma."},
+   {"n":"02","t":"Conferência a olho","d":"Para saber o que foi comprado, alguém abre a nota e lê item por item."}]},
+ {"tipo":"itens","tag":"Erros de classificação","titulo":"Tudo cai *na mesma conta*","itens":[
+   {"n":"03","t":"Compra pessoal misturada","d":"O produtor compra para casa no mesmo CPF, e isso entra como despesa da atividade."},
+   {"n":"04","t":"Uma conta para tudo","d":"Com pressa, quase toda despesa vai para a mesma conta."}]},
+ {"tipo":"itens","tag":"Erros de data","titulo":"O lançamento *no mês errado*","itens":[
+   {"n":"05","t":"Folha no mês errado","d":"Salário, INSS e FGTS são de uma competência e pagos no mês seguinte."},
+   {"n":"06","t":"Nota repetida ou esquecida","d":"Sem conferência automática, a mesma nota entra duas vezes ou fica de fora."}]},
+ {"tipo":"texto","tag":"dep.rural","titulo":"O sistema lê a nota *por você.*","texto":"Você arrasta os XMLs das notas e os PDFs da folha. O dep.rural sugere conta e histórico, aponta o que parece uso pessoal e lança a folha no mês do pagamento.","destaque":"E o livro continua no programa da Receita, como sempre."},
+ {"tipo":"cta","tag":"Sem trocar de sistema","titulo":"Quer ver o dep.rural *funcionando?*","texto":"A gente mostra o passo a passo, sem compromisso.","botao":"Comenta RURAL"}
+]}
