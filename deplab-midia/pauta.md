@@ -1,6 +1,8 @@
 # Pauta do dep.rural no Instagram
 
-Linha editorial: **só dep.rural**. Mistura de conteúdo útil para quem lança livro caixa de produtor rural (o contador e a equipe do escritório) com demonstração do produto. Por semana: 4 posts, de terça a sexta (ou segunda a sexta, pulando feriado), sendo 2 carrosséis e 2 Reels, no melhor horário que a Metricool indicar.
+Linha editorial: **só dep.rural**. Mistura de conteúdo útil para quem lança livro caixa de produtor rural (o contador e a equipe do escritório) com demonstração do produto. Por semana: **5 posts no feed, de segunda a sexta** (pulando feriado nacional), no melhor horário que a Metricool indicar, sendo 2 carrosséis, 2 Reels e 1 post leve (imagem única com pergunta, enquete em texto ou "você sabia?"). No **sábado e no domingo, 1 Story por dia** (imagem 1080x1920, formato "story" do carrossel.js), sem legenda.
+
+Para não virar só propaganda, alterne: dica de livro caixa (útil mesmo sem o sistema), demonstração do dep.rural, pergunta para o público comentar e transparência (o que o sistema ainda não faz).
 
 Use os fatos do `README.md`. Marque com [x] o tema usado e anote a data.
 
@@ -21,5 +23,21 @@ Use os fatos do `README.md`. Marque com [x] o tema usado e anote a data.
 - [ ] O sistema sugere, você decide: a conferência humana (Reel)
 - [ ] Mitos e verdades do livro caixa rural (carrossel; conferir cada regra em fonte oficial antes)
 - [ ] O que o dep.rural ainda não faz (carrossel de transparência, com a lista de limites)
+- [ ] Pergunta: "Quantos produtores rurais o seu escritório atende?" (post leve, imagem única)
+- [ ] Pergunta: "Qual a parte mais chata do livro caixa rural?" com 4 opções para responder nos comentários (post leve)
+- [ ] Você sabia? O programa da Receita não importa nota: tudo entra pelo teclado (post leve)
+- [ ] Antes x depois: o mesmo mês digitado à mão e pelo dep.rural, só com o fluxo, sem inventar tempo (Reel)
+- [ ] Checklist de fechamento do mês do produtor: notas, folha, guias, honorários (carrossel)
+- [ ] Holerite pelo líquido: por que o bruto conta o INSS duas vezes (Reel curto)
+- [ ] Nota da venda de gado: onde aparece a GTA e a quantidade (carrossel)
+- [ ] Bastidores: como o sistema aprende o plano de contas de cada produtor (Reel)
+
+## Stories de fim de semana
+- [x] Você sabia? Livro caixa rural é regime de caixa (01/11)
+- [ ] Você sabia? Nota cancelada ou de outro ano não entra no livro
+- [ ] Você sabia? Compra de bezerro leva a quantidade no histórico
+- [ ] Lembrete: segunda tem post novo do dep.rural
+- [ ] Você sabia? O salário entra pelo líquido
+- [ ] Você sabia? O que já foi lançado não muda quando o dep.rural restaura a cópia
 
 Quando faltar tema, crie novos a partir dos fatos do README e acrescente aqui.
