@@ -1,0 +1,11 @@
+{"slides":[
+ {"tipo":"capa","tag":"Transparência","titulo":"O que o dep.rural *ainda não faz*","texto":"Antes de você testar,\na lista do que fica de fora hoje."},
+ {"tipo":"itens","tag":"Notas","titulo":"Nas notas, *ainda não:*","itens":[
+   {"n":"01","t":"Não baixa XML da SEFAZ sozinho","d":"Você junta os XMLs e arrasta para o sistema."},
+   {"n":"02","t":"Não lê CT-e nem NFS-e","d":"Hoje ele lê XML de compra e de venda."}]},
+ {"tipo":"itens","tag":"Folha e LCDPR","titulo":"E também *não faz:*","itens":[
+   {"n":"03","t":"Férias, 13º e rescisão","d":"Esses lançamentos da folha continuam com você."},
+   {"n":"04","t":"LCDPR","d":"O foco é o Livro Caixa da Atividade Rural, no programa da Receita."}]},
+ {"tipo":"texto","tag":"O que ele já faz","titulo":"Sugere conta e histórico. *Você decide.*","texto":"Lê os XMLs das notas, os holerites, as guias do INSS e do FGTS e a planilha de honorários.","destaque":"Sempre há conferência humana."},
+ {"tipo":"cta","tag":"Agora você sabe","titulo":"Quer ver o que ele *já faz?*","texto":"A gente mostra o dep.rural funcionando, sem compromisso.","botao":"Comenta RURAL"}
+]}

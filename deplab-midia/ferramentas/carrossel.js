@@ -8,6 +8,7 @@
 //   {"tipo":"cta",   "titulo":"...", "texto":"...", "botao":"Comenta RURAL"}
 // Nos textos: *palavra* fica em laranja e \n quebra a linha.
 // Story (1080x1920, uma imagem por slide): ponha "formato":"story" no roteiro. Use 1 slide do tipo capa, texto ou cta.
+// Post leve (imagem única 1080x1350): roteiro com 1 slide; sai slide-01.png sem a numeração "1/1".
 const fs = require('fs'), path = require('path'), os = require('os');
 const { chromium } = require('playwright');
 
@@ -50,7 +51,7 @@ h2{font-family:var(--display);font-weight:800;font-size:72px;line-height:1.06;le
 `;
 
 function slideHTML(s, i, n, story){
-  const pg = story ? '' : `${i+1}/${n}`;
+  const pg = (story || n === 1) ? '' : `${i+1}/${n}`;
   let body = '';
   if (s.tipo === 'capa') body = `<div class="tag">${fmt(s.tag)}</div><h1 data-fit>${fmt(s.titulo)}</h1>${s.texto?`<p class="txt">${fmt(s.texto)}</p>`:''}`;
   else if (s.tipo === 'itens') body = `${s.tag?`<div class="tag">${fmt(s.tag)}</div>`:''}<h2 data-fit>${fmt(s.titulo)}</h2>

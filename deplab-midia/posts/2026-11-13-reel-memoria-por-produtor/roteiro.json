@@ -1,0 +1,9 @@
+{"musica":true,"cenas":[
+ {"tipo":"frase","dur":3.0,"tag":"Livro Caixa do Produtor Rural","titulo":"Todo mês você classifica *tudo de novo?*"},
+ {"tipo":"passos","dur":6.6,"titulo":"Com a *memória* do dep.rural:","passos":[
+   {"t":"No primeiro mês","d":"você confere e resolve só o que ele não soube"},
+   {"t":"No mês seguinte","d":"o que você classificou já vem pronto"},
+   {"t":"Você sempre confere","d":"o sistema sugere, você decide"}]},
+ {"tipo":"frase","dur":3.6,"tag":"Memória por produtor","titulo":"Cada produtor tem *a sua.*","texto":"A conta sugerida vem do que aquele produtor já lançou."},
+ {"tipo":"marca","dur":4.0,"titulo":"Classificou uma vez, *já vem pronto.*","botao":"Comenta RURAL"}
+]}

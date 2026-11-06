@@ -9,6 +9,7 @@ Pasta das artes do Instagram do **dep.rural** (um produto dep.lab). Este reposit
    - Reel (1080×1920, 30 fps, com trilha própria): `node ferramentas/video.js roteiro.json saida.mp4`
    - Prévia do Reel, um quadro por cena: `node ferramentas/video.js roteiro.json saida.mp4 --quadros`
    - Story (1080x1920): roteiro com `"formato":"story"` e 1 slide; `node ferramentas/carrossel.js roteiro.json pasta` gera `story-01.png`.
+   - Post leve (imagem única 1080x1350): roteiro com 1 slide; sai `slide-01.png`, sem a numeração.
    - Os tipos de slide e de cena estão descritos no começo de cada script.
 3. A Metricool (marca 7767590, fuso America/Sao_Paulo) puxa a mídia pelo link público:
    `https://raw.githubusercontent.com/euclidssonalexandre-creator/Elei-es/main/deplab-midia/posts/<pasta>/<arquivo>`

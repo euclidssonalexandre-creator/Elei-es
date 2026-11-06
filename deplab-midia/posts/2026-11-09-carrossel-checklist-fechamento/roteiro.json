@@ -1,0 +1,14 @@
+{"slides":[
+ {"tipo":"capa","tag":"Livro Caixa do Produtor Rural","titulo":"Fechamento do mês: o *checklist* do produtor","texto":"6 itens para não deixar nada de fora. Salva para o próximo fechamento."},
+ {"tipo":"itens","tag":"Notas","titulo":"Os XMLs *do mês*","itens":[
+   {"n":"01","t":"Notas de compra","d":"Todas em XML, marcando o que é uso pessoal."},
+   {"n":"02","t":"Notas de venda","d":"Na venda de gado, a quantidade de animais e a GTA no histórico."}]},
+ {"tipo":"itens","tag":"Folha","titulo":"Holerites *e guias*","itens":[
+   {"n":"03","t":"Holerites","d":"O salário entra pelo líquido, no mês em que foi pago."},
+   {"n":"04","t":"Guias do INSS e do FGTS","d":"A folha de um mês é paga no mês seguinte. Entra no mês do pagamento."}]},
+ {"tipo":"itens","tag":"Fechando o mês","titulo":"Honorários *e conferência*","itens":[
+   {"n":"05","t":"Honorários","d":"Uma linha por pagamento, na data em que foi pago."},
+   {"n":"06","t":"Conferência final","d":"Nenhuma nota repetida, nenhuma esquecida."}]},
+ {"tipo":"texto","tag":"dep.rural","titulo":"Arrasta tudo *de uma vez.*","texto":"Os XMLs das notas, os PDFs da folha e a planilha de honorários. O dep.rural sugere conta e histórico, e nota já lançada fica de fora sozinha.","destaque":"Você resolve só o que ele não soube. E o livro continua no programa da Receita."},
+ {"tipo":"cta","tag":"Fechamento sem digitação","titulo":"Quer ver esse fechamento *no dep.rural?*","texto":"A gente mostra funcionando, sem compromisso.","botao":"Comenta RURAL"}
+]}

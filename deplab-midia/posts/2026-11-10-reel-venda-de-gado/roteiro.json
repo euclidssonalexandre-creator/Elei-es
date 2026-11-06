@@ -1,0 +1,6 @@
+{"musica":true,"cenas":[
+ {"tipo":"frase","dur":3.0,"tag":"Livro Caixa do Produtor Rural","titulo":"Nota de venda de gado com *vários itens?*"},
+ {"tipo":"lista","dur":5.6,"titulo":"O dep.rural lê o XML *pra você:*","itens":["Um lançamento por item","Quantidade de animais no histórico","GTA no histórico"]},
+ {"tipo":"frase","dur":3.6,"tag":"E na compra","titulo":"Comprou bezerros?\n*A quantidade vem junto.*","texto":"No histórico, como na venda de gado."},
+ {"tipo":"marca","dur":4.2,"titulo":"Sem digitar\n*item por item.*","botao":"Comenta RURAL"}
+]}
